@@ -8,3 +8,12 @@
 * **Set** → use when you need **only unique values or fast checking if something exists**
 
 * **Dictionary** → use when you need to **store and access data by key (key → value mapping)**
+
+
+
+| Type      | Ordered | Duplicates             | Indexed      | Mutable |
+| --------- | ------- | ---------------------- | ------------ | ------- |
+| **List**  | Yes     | Yes                    | Yes          | Yes     |
+| **Tuple** | Yes     | Yes                    | Yes          | No      |
+| **Set**   | No      | No                     | No           | Yes     |
+| **Dict**  | Yes     | Keys: No / Values: Yes | Yes (by key) | Yes     |
