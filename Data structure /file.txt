@@ -1,0 +1,10 @@
+# summary : when we should use each one 
+
+
+* **List** → use when you need an **ordered collection you will modify (add/remove/change)**
+
+* **Tuple** → use when you need an **ordered collection that must stay constant (unchangeable)**
+
+* **Set** → use when you need **only unique values or fast checking if something exists**
+
+* **Dictionary** → use when you need to **store and access data by key (key → value mapping)**
