@@ -1,0 +1,10 @@
+[project]
+name = "py-for-fastapi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "email-validator>=2.3.0",
+    "pydantic[all]>=2.12.5",
+]
