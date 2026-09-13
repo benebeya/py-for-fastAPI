@@ -3,9 +3,12 @@
 Python review before starting FastAPI + databases. Python 3.14, managed with `uv`.
 
 Each topic folder has the **original notes** (kept as-is) plus a **drill file**:
-runnable examples with the gotchas made visible, then exercises with commented
-`assert`s at the bottom. Uncomment each assert as you solve it — silence means
-it passed.
+~60–95 dense lines of runnable examples with the gotchas made visible, then
+exercises with commented `assert`s at the bottom. Uncomment each assert as you
+solve it — silence means it passed.
+
+Longer, fully-commented versions of every drill are in [`reference/`](reference/)
+if you want the expanded explanation of any one topic.
 
 ## The path
 
